@@ -1,7 +1,0 @@
-C:\Users\egori\Desktop\Lab1_Ivanenko\Lab1_Ivanenko\bin\Debug\Lab1_Ivanenko.exe.config
-C:\Users\egori\Desktop\Lab1_Ivanenko\Lab1_Ivanenko\bin\Debug\Lab1_Ivanenko.exe
-C:\Users\egori\Desktop\Lab1_Ivanenko\Lab1_Ivanenko\bin\Debug\Lab1_Ivanenko.pdb
-C:\Users\egori\Desktop\Lab1_Ivanenko\Lab1_Ivanenko\obj\Debug\Lab1_Ivanenko.csproj.AssemblyReference.cache
-C:\Users\egori\Desktop\Lab1_Ivanenko\Lab1_Ivanenko\obj\Debug\Lab1_Ivanenko.csproj.CoreCompileInputs.cache
-C:\Users\egori\Desktop\Lab1_Ivanenko\Lab1_Ivanenko\obj\Debug\Lab1_Ivanenko.exe
-C:\Users\egori\Desktop\Lab1_Ivanenko\Lab1_Ivanenko\obj\Debug\Lab1_Ivanenko.pdb
